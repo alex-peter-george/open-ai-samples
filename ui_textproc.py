@@ -1,8 +1,4 @@
 import wx
-import logging
-import os
-import openai
-import json
 from nlpmodels import az_openailib
 
 class MainWindow(wx.Frame):
